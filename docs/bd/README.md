@@ -5,8 +5,9 @@ This folder packages the Canva/Pexels business development strategy for
 
 ## Important product boundary
 
-- **dam-mac**: macOS DAM with a custom visual indexing engine for image and
-  content libraries
+- **dam-mac**: DAM product with a custom visual indexing engine for image and
+  content libraries; productized on Mac first, but not limited to Mac as a
+  capability
 - **FindandSeek**: separate product. Do not use it in this pitch.
 
 If a document mentions document memory, agent file search, or local assistant
@@ -28,6 +29,8 @@ For the explicit guardrail, see [product-boundary.md](product-boundary.md).
   DaVinci Resolve target note and sample pitch
 - [06-sell-to-priority-map.md](06-sell-to-priority-map.md): who to actually
   sell dam-mac to, in priority order
+- [07-research-agent-prompt.md](07-research-agent-prompt.md): long-running
+  prompt for a research agent to build the target-account list
 
 ## Recommended order of use
 

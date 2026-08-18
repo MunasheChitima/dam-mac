@@ -2,22 +2,24 @@
 
 ## Product note
 
-These assets are for **dam-mac** only: a macOS DAM with a custom visual indexing
-engine. Do not mix in FindandSeek, document memory, or agent-file-search
-positioning.
+These assets are for **dam-mac** only: a DAM product with a custom visual
+indexing engine. Do not mix in FindandSeek, document memory, or
+agent-file-search positioning.
 
 ## Master positioning sentence
 
-We built a macOS DAM that makes visual libraries easier to search, reuse, and
+We built a DAM product that makes visual libraries easier to search, reuse, and
 create from. The highest-value version of that capability likely belongs inside
 a platform like Canva.
 
 ## Short company description
 
-dam-mac is a digital asset management product for macOS. It uses a custom visual
-indexing engine to help people find and reuse the images and content they
-already have, instead of generating new material by default. We would rather
-bring that value to Canva than compete with Canva for it.
+dam-mac is a digital asset management product built around a custom visual
+indexing engine. It helps people find and reuse the images and content they
+already have, instead of generating new material by default. It has been
+productized on Mac first, but the core engine was trained on Linux and can be
+hosted on a server. We would rather bring that value to Canva than compete with
+Canva for it.
 
 It is also naturally MCP-native, which means the capability is already shaped
 to work with AI-assisted workflows rather than only through a standalone app
@@ -29,7 +31,7 @@ Subject: A visual DAM built around assets you already have
 
 Hi [Name],
 
-We have been building a macOS DAM around a simple idea: people do not always
+We have been building a DAM product around a simple idea: people do not always
 need to generate something new. Often they need the right visual from the
 library they already have.
 
@@ -62,7 +64,7 @@ Canva's AI and content workflows.
 
 A lot of visual requests are not really asking for something new. They are
 asking for something that already exists in a library, but is hard to retrieve
-quickly enough. We built dam-mac to solve that: a visual DAM with a custom
+quickly enough. We built dam-mac to solve that: a DAM product with a custom
 indexing engine that helps people start from existing assets and only generate
 when nothing fits.
 
@@ -84,7 +86,7 @@ Subject: We would rather bring this to Canva than compete in your space
 
 Hi [Name],
 
-We built dam-mac, a macOS DAM with a custom visual indexing engine for existing
+We built dam-mac, a DAM product with a custom visual indexing engine for existing
 image libraries. The product helps people find, reuse, and create from the
 visual assets they already have instead of generating new content by default.
 
@@ -95,7 +97,7 @@ space. We would rather bring the value to Canva.
 
 The fact that the product is already MCP-native also means the capability is
 well-shaped for modern AI-assisted software, rather than needing to be thought
-of only as a standalone Mac application.
+of only as a desktop application.
 
 If the idea is interesting, I would love to show you the product and talk
 about whether it belongs with you.
@@ -106,7 +108,7 @@ Munashe Chitima
 
 ### Slide 1: What we built
 
-- dam-mac: a macOS DAM for visual asset libraries
+- dam-mac: a DAM product for visual asset libraries
 - custom indexing engine for images and existing content
 
 ### Slide 2: The insight
@@ -156,10 +158,11 @@ You can. We already have a working product. The reason we are here is that the
 capability is converging with Canva's market, and we would rather you have the
 value than us continuing independently.
 
-### "This sounds like a macOS app, not a Canva product."
+### "This sounds like a desktop product, not a Canva product."
 
-Correct today. The product is macOS. The capability is visual library indexing
-and retrieval. The strategic question is whether that capability belongs inside
+The current productized surface is on Mac, but the capability is not limited to
+Mac. The engine was trained on Linux, can be hosted on a server, and the
+strategic question is whether that visual library capability belongs inside
 Canva's offering.
 
 ### "How is this different from FindandSeek?"

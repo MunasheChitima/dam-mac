@@ -226,6 +226,10 @@ Use this:
 > capability can live as a licensed or embedded feature, rather than building a
 > full standalone competitor to every workflow ourselves.
 
+Mac is simply the first productized surface. The engine itself should be
+researched and pitched as a broader capability: Linux-trained, server-hostable,
+and suitable for embedded or licensed deployment.
+
 ## Bottom line
 
 If the question is "who should I actually sell this to?", the best answer is:

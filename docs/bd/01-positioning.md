@@ -2,16 +2,21 @@
 
 ## Product
 
-**dam-mac** is a macOS digital asset management product built around a custom
-visual indexing engine. It helps people find, organize, and reuse the images
-and content they already have, instead of generating new material by default.
+**dam-mac** is a digital asset management product built around a custom visual
+indexing engine. It helps people find, organize, and reuse the images and
+content they already have, instead of generating new material by default.
+
+The Mac product is the packaging that has been productized first. The core
+capability is broader than that: it was trained on Linux, can be hosted on a
+server, and should be pitched as an engine and workflow capability rather than
+as a Mac-only app.
 
 This memo is about **dam-mac only**. It is not about FindandSeek.
 
 ## One-line description
 
-A macOS DAM with a custom visual indexing engine that makes existing image
-libraries easier to search, reuse, and create from.
+A digital asset management engine with custom visual indexing that makes
+existing image libraries easier to search, reuse, and create from.
 
 ## What dam-mac does
 
@@ -26,7 +31,8 @@ libraries easier to search, reuse, and create from.
 dam-mac is naturally built to work through MCP.
 
 That matters because it means the product is already shaped as a capability
-other software can call into, rather than only as a standalone interface. For a
+other software can call into, rather than only as a packaged desktop
+interface. For a
 platform like Canva, that makes the story easier to understand:
 
 - the library intelligence can be invoked from existing workflows
@@ -128,7 +134,7 @@ Canva than compete for it.
 
 Use this framing consistently:
 
-> We built a macOS DAM around a custom visual indexing engine. The more we
+> We built a DAM product around a custom visual indexing engine. The more we
 > built it, the clearer it became that the highest-value use of that capability
 > is inside a platform like Canva, where people already have the libraries,
 > workflow, and generation fallback.

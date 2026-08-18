@@ -8,11 +8,13 @@ This file exists to prevent future pitch drift.
 
 dam-mac is:
 
-- a macOS digital asset management product
+- a digital asset management product
 - built around a custom visual indexing engine
 - focused on images, visual assets, and content libraries
 - about helping people search, reuse, and create from what they already have
 - MCP-native, so assistants and AI-assisted workflows can call into the library
+- productized on Mac first, but not limited to Mac as a capability
+- trained on Linux and suitable for server-hosted deployment
 
 Use dam-mac when the pitch is about:
 
@@ -46,7 +48,7 @@ general file intelligence, it has crossed the product boundary.
 
 Use this as the default:
 
-> dam-mac is a macOS DAM with a custom visual indexing engine that helps people
+> dam-mac is a DAM product with a custom visual indexing engine that helps people
 > search, reuse, and create from the image and content libraries they already
 > have.
 

@@ -2,7 +2,7 @@
 
 ## Product
 
-This proof is for **dam-mac**: a macOS DAM with a custom visual indexing engine.
+This proof is for **dam-mac**: a DAM product with a custom visual indexing engine.
 
 It is not a FindandSeek demo and it is not a document-memory demo.
 
@@ -31,7 +31,8 @@ Demonstrate the product against a narrow, representative visual corpus:
 - a sample brand or campaign library
 - realistic prompts from design and marketing workflows
 
-The proof should show the product itself, not a hypothetical future integration.
+The proof should show the engine and product capability itself, not a
+hypothetical future integration or a desktop-only wrapper.
 
 ## Example corpus
 

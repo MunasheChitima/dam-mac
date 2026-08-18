@@ -76,7 +76,7 @@ Prioritize:
 
 Use this framing:
 
-> We built dam-mac as a visual DAM with a custom indexing engine for image and
+> We built dam-mac as a DAM product with a custom indexing engine for image and
 > content libraries. The value is simple: help people find, reuse, and create
 > from the assets they already have. Because it is already MCP-native, it also
 > pairs naturally with AI-assisted workflows that need to retrieve the right
@@ -116,7 +116,7 @@ Subject: A visual DAM capability that may fit Resolve's media workflows
 
 Hi [Name],
 
-We built dam-mac, a macOS DAM with a custom visual indexing engine for image
+We built dam-mac, a DAM product with a custom visual indexing engine for image
 and content libraries. The product helps people find, reuse, and create from
 the assets they already have instead of spending time hunting through media or
 defaulting to new generation.

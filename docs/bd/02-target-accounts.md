@@ -2,8 +2,8 @@
 
 ## Product context
 
-This map is for **dam-mac**: a macOS DAM built around visual asset indexing and
-retrieval. It is not for FindandSeek or any document/agent-memory product.
+This map is for **dam-mac**: a DAM product built around visual asset indexing
+and retrieval. It is not for FindandSeek or any document/agent-memory product.
 
 ## Primary account
 
