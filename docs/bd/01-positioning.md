@@ -1,125 +1,147 @@
 # Canva/Pexels positioning memo
 
+## Product
+
+**dam-mac** is a macOS digital asset management product built around a custom
+visual indexing engine. It helps people find, organize, and reuse the images
+and content they already have, instead of generating new material by default.
+
+This memo is about **dam-mac only**. It is not about FindandSeek.
+
 ## One-line description
 
-We built a retrieval-first asset product that was naturally heading into
-Canva and Pexels's market. We would rather bring that value into their
-offering than compete with them for it.
+A macOS DAM with a custom visual indexing engine that makes existing image
+libraries easier to search, reuse, and create from.
 
-## Primary wedge
+## What dam-mac does
 
-Lead with **natural overlap, not a plug-in**.
+- indexes images and visual assets at low cost
+- makes existing libraries faster to search and pull from
+- lets people enter creation from assets they already have
+- exposes retrieval through MCP so assistants and workflows can use the library
+- treats generation as a fallback, not the default
 
-The product was always going to land in the same place Canva already occupies:
+## Primary wedge for Canva/Pexels
 
-- people creating from libraries they already have
-- teams looking for the right existing asset before making a new one
-- platforms that own both the workflow and the content supply
+Lead with **visual asset reuse before generation**.
 
-That is Canva's space. The honest BD move is to say so, then offer the
-capability directly so Canva can own the value instead of facing another
-product in the same market.
+The insight:
 
-## What we are offering
+- people are not always asking for something new
+- they are often trying to find or reuse something they already have
+- if the right asset is easy to retrieve, generation is unnecessary
+
+That is the value dam-mac was built around.
+
+## What we are offering Canva
 
 We are not offering:
 
-- a plugin
-- a connector sitting beside Brand Hub
-- a competing Canva-like app
+- a competing Canva-like editor
 - a replacement for Magic Studio
+- a generic plugin sitting beside their product
 
 We are offering:
 
-- the product we have already built
-- the value of retrieval-first creation
-- a way for Canva to give customers more from the libraries they already have
-- a way for Canva to capture that market instead of competing with it
+- the product and engine we have already built
+- a way for Canva to give customers more from the visual libraries they already have
+- a stronger asset workflow without us growing into a direct competitor
 
-## The core business claim
+## Honest market read
 
-The product was going to evolve into their space anyway.
+### Where the fit is real
 
-Once you index existing assets well enough, people stop generating as much and
-start creating from what they already have. That is the natural next step of
-the work. It is also the natural next step of Canva's work: own the workflow,
-own the library, and make both more valuable together.
+The **problem** overlaps with Canva and Pexels:
 
-If we keep going independently, we end up in their market. We would rather
-give them that value directly.
+- visual libraries are hard to use well at scale
+- many creation requests are really retrieval problems
+- enterprise teams want to reuse brand and campaign assets
+- Canva already owns the workflow, customer, and much of the content supply
 
-## Why this matters to Canva
+### Where we should not overclaim
 
-### 1. Capture the value instead of competing for it
+dam-mac today is:
 
-The capability is heading toward the same customer: teams who want to create
-from existing brand, campaign, and stock libraries. Canva already has those
-customers. Better to bring the value into Canva than to let another product
-grow up beside it.
+- a macOS DAM product
+- focused on visual asset indexing and retrieval
+- built for people and teams working from existing libraries
 
-### 2. Stronger offering for their customers
+Canva today is:
 
-If Canva has this directly, customers get:
+- a cloud creation platform at massive scale
+- already in enterprise asset workflows through Brand Hub and integrations
+- already investing heavily in AI generation and routing
 
-- creation that starts from their own assets
-- faster reuse of brand-approved work
-- a library that is actually useful inside the product
-- generation only when nothing existing is good enough
+So the honest claim is **convergence**, not "we were already in your market."
 
-That is a richer product, and a reason for enterprise teams to keep more of
-their content inside Canva.
+The paths are moving toward the same place:
 
-### 3. Better economics on AI
+- we built retrieval-first visual asset management
+- Canva is building AI-assisted creation with owned and customer libraries
+- the highest-value version of what we built may belong inside a platform like Canva
 
-If people can enter creation from what they already have, fewer requests need
-frontier generation. Canva keeps the customer outcome and reduces unnecessary
-AI spend.
+## Why Canva might care
 
-### 4. Better use of owned inventory
+### 1. Stronger customer offering
 
-Canva already owns Pexels and Pixabay. A product that makes existing assets
-easier to find and reuse raises the value of inventory they already control.
+Canva could offer customers a better way to:
+
+- start from their own assets
+- reuse brand and campaign libraries
+- find the right image or visual faster
+- generate only when nothing existing fits
+
+### 2. Better use of owned inventory
+
+Canva already owns Pexels and Pixabay. Better retrieval makes that inventory more
+valuable inside the product, not just as a side search box.
+
+### 3. Lower unnecessary generation
+
+If an existing asset can satisfy the request, Canva avoids an avoidable AI call.
+That matters at scale.
+
+### 4. Avoid competing paths
+
+If dam-mac keeps growing independently, it moves toward the same customer need:
+create from the library you already have. We would rather bring that value to
+Canva than compete for it.
 
 ## Product framing for buyers
 
 Use this framing consistently:
 
-> We built something that was naturally going to evolve into your space:
-> helping people create from the content they already have, instead of
-> generating as much. We would rather give you that value directly than
-> compete with you for it.
+> We built a macOS DAM around a custom visual indexing engine. The more we
+> built it, the clearer it became that the highest-value use of that capability
+> is inside a platform like Canva, where people already have the libraries,
+> workflow, and generation fallback.
 
 ## What not to say
 
 Avoid:
 
-- "plug in as infrastructure"
-- "sit behind your product"
-- "we can be a connector"
-- "you should enter the DAM space"
-- "do not waste time building this"
-- "buy our app"
-
-Those phrases make the offer sound like a side integration, or like we are
-trying to sell them a desktop product.
+- claiming we were already fully in Canva's market
+- describing dam-mac as a document or agent-memory product
+- referencing FindandSeek
+- pitching this as a small connector or side app
+- saying Canva needs to "enter DAM" from scratch
 
 ## What to say instead
 
 Use:
 
-- "this was naturally heading into your market"
-- "we would rather give you the value directly than compete"
-- "your customers can create from their own assets first"
-- "that increases the value of your offering"
-- "it also reduces unnecessary generation"
+- "visual asset libraries"
+- "create from what you already have"
+- "reduce unnecessary generation"
+- "make owned and customer libraries more valuable"
+- "we would rather bring this to Canva than compete with Canva"
 - "we have already built it"
 
 ## Recommended narrative
 
-1. We built a product around existing libraries, not new generation.
-2. That work was always going to land in Canva and Pexels's market.
-3. People do not need to generate as much when they can enter creation from
-   what they already have.
-4. Canva already has the customers, the workflow, and the content supply.
-5. We would rather bring that value into Canva than compete with Canva for it.
-6. The next step is to show the product and see if they want it as theirs.
+1. We built dam-mac to make visual libraries easier to use.
+2. That work points toward the same customer need Canva already serves.
+3. People do not always need to generate. Often they need the right existing asset.
+4. Canva already has the audience, workflow, and content supply.
+5. We would rather bring that value to Canva than keep building toward the same outcome independently.
+6. The next step is to show the product and see if it belongs with you.

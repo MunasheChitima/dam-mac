@@ -1,40 +1,45 @@
 # Canva/Pexels outreach assets
 
+## Product note
+
+These assets are for **dam-mac** only: a macOS DAM with a custom visual indexing
+engine. Do not mix in FindandSeek, document memory, or agent-file-search
+positioning.
+
 ## Master positioning sentence
 
-We built a product that was naturally heading into Canva and Pexels's market:
-helping people create from the content they already have. We would rather
-give you that value directly than compete with you for it.
+We built a macOS DAM that makes visual libraries easier to search, reuse, and
+create from. The highest-value version of that capability likely belongs inside
+a platform like Canva.
 
 ## Short company description
 
-We built a retrieval-first asset product. The natural next step of that work
-is the same market Canva already occupies: creation from existing libraries,
-owned stock, and brand assets. We do not want to grow up beside that. We
-would rather Canva have the value in its own offering.
+dam-mac is a digital asset management product for macOS. It uses a custom visual
+indexing engine to help people find and reuse the images and content they
+already have, instead of generating new material by default. We would rather
+bring that value to Canva than compete with Canva for it.
 
-## Email variant A: enterprise and DAM buyer
+## Email variant A: enterprise and brand buyer
 
-Subject: This was heading into your market. We would rather give it to you.
+Subject: A visual DAM built around assets you already have
 
 Hi [Name],
 
-We have been building a product around a simple idea: people do not need to
-generate as much when they can enter content creation from the assets they
-already have.
+We have been building a macOS DAM around a simple idea: people do not always
+need to generate something new. Often they need the right visual from the
+library they already have.
 
-The more we built it, the clearer the overlap became. That is already Canva's
-space: teams creating from brand libraries, campaign assets, and the content
-you already have through Pexels. If we kept going independently, we would be
-competing in a market you already own.
+dam-mac indexes images and visual assets cheaply, makes them easier to search
+and reuse, and lets people start creating from what they already own. The more
+we built it, the clearer it became that this value likely belongs inside a
+platform like Canva, where teams already manage brand libraries, campaign
+assets, and stock content.
 
-We would rather not do that. We would rather give you the value directly, so
-your customers get a stronger way to reuse what they already have, inside
-Canva, and you get a richer offering rather than another product sitting
-beside it.
+We do not want to compete with Canva. We would rather bring this capability to
+you, so your customers get a stronger way to create from existing assets and
+you get more value from the libraries you already host and own.
 
-We have already built it, and we would love to show you. If you are keen, I
-can walk you through what we have and what your customers would gain from it.
+If you are keen, I would love to show you what we have built.
 
 Munashe Chitima
 
@@ -44,21 +49,21 @@ Subject: What if people did not need to generate as much?
 
 Hi [Name],
 
-I wanted to share something we have built, because I think it lands in
-Canva's market more than it belongs as a separate product.
+I wanted to share something we have built, because I think it is relevant to
+Canva's AI and content workflows.
 
-A lot of generation requests are not really asking for something new. They
-are asking for something the team already has, or something already in the
-library. We built a product that lets people start from those existing
-assets first, and only generate when nothing fits.
+A lot of visual requests are not really asking for something new. They are
+asking for something that already exists in a library, but is hard to retrieve
+quickly enough. We built dam-mac to solve that: a visual DAM with a custom
+indexing engine that helps people start from existing assets and only generate
+when nothing fits.
 
-That work was naturally heading into the same place as Magic: the moment
-someone says "make me this" inside a creation workflow. We do not want to
-compete with that. We would rather Canva have the capability, so generation
-is used when it is actually needed, and customers get more from the content
-they already have.
+That behavior feels closely aligned with Canva's world: owned stock through
+Pexels, customer libraries, and AI-assisted creation inside one workflow. We
+would rather bring that value to Canva than keep building toward the same
+outcome independently.
 
-If you are keen, I would love to show you what we have built.
+If you are keen, I would love to show you the product.
 
 Munashe Chitima
 
@@ -68,83 +73,79 @@ Subject: We would rather bring this to Canva than compete in your space
 
 Hi [Name],
 
-We built a product that helps people create from existing asset libraries
-instead of generating as much. The more it developed, the more obvious it
-became that this is Canva's market: the workflow, the customer, and the
-content supply through Pexels.
+We built dam-mac, a macOS DAM with a custom visual indexing engine for existing
+image libraries. The product helps people find, reuse, and create from the
+visual assets they already have instead of generating new content by default.
 
-We do not want to grow a competing product in that space. We would rather
-give Canva the value directly, so you can offer customers more from the
-libraries they already have, and from the inventory you already own, while
-also reducing unnecessary generation.
+As it has developed, the strategic overlap with Canva has become clearer:
+visual libraries, brand assets, owned stock, and AI-assisted creation all
+live in the same workflow. We do not want to grow a competing product in that
+space. We would rather bring the value to Canva.
 
-We have already built it. If you are keen, I would love to show you the
-product and talk about whether it belongs with you.
+If the idea is interesting, I would love to show you the product and talk
+about whether it belongs with you.
 
 Munashe Chitima
 
 ## One-minute deck outline
 
-### Slide 1: Where this was heading
+### Slide 1: What we built
 
-- we built a product around existing libraries, not new generation
-- that work was naturally evolving into Canva and Pexels's market
+- dam-mac: a macOS DAM for visual asset libraries
+- custom indexing engine for images and existing content
 
-### Slide 2: The value
+### Slide 2: The insight
 
-- people can enter creation from assets they already have
-- they do not need to generate as much
-- that makes customer libraries and owned inventory more valuable
+- people do not always need to generate
+- often they need the right existing visual
 
-### Slide 3: Why we are coming to you
+### Slide 3: Why Canva may care
 
-- this is already your customer, your workflow, and your content supply
-- we would rather give you the value than compete with you for it
+- stronger enterprise and brand library workflows
+- better use of Pexels and customer-owned inventory
+- less unnecessary generation
 
-### Slide 4: What your customers get
+### Slide 4: What we are offering
 
-- a stronger way to reuse brand and campaign assets
-- more value from Pexels and customer-owned libraries
-- generation as a fallback, not the default
+- the product and engine we have already built
+- a preference to bring the value to Canva rather than compete
 
-### Slide 5: What we are asking
+### Slide 5: Next step
 
-- look at the product we have already built
-- decide whether this value belongs in Canva
+- show the product on a representative visual corpus
+- decide whether it belongs with Canva
 
 ## Talk track for live meetings
 
 Use this sequence:
 
-1. we built a product around creating from existing assets
-2. that was always going to land in your market
-3. we would rather give you that value than compete
-4. here is what your customers would get, and what it does to generation
+1. dam-mac is a visual DAM, not a generic AI search tool
+2. it helps people create from existing assets first
+3. that behavior converges with Canva's workflow and libraries
+4. we would rather bring the value to Canva than compete
 5. if you are keen, look at the product itself
 
 ## Objection handling
 
-### "We already have DAM, Brand Hub, and asset integrations."
+### "We already have Brand Hub and DAM integrations."
 
-That is the point. The product was heading into a market you already occupy.
-We are not asking you to add a side tool. We are offering the value directly
-so Canva can own that next layer of the experience instead of competing with
-someone else for it.
+That is the point. Canva already has the workflow. The question is whether a
+visual indexing engine like ours makes those libraries materially more useful
+inside creation, especially before generation is invoked.
 
 ### "We can build this ourselves."
 
-You can. We already have. The reason we are here is not that your team could
-not do it. It is that the product was evolving into your space, and we would
-rather you have the value than us continuing independently.
+You can. We already have a working product. The reason we are here is that the
+capability is converging with Canva's market, and we would rather you have the
+value than us continuing independently.
 
-### "This sounds like a plugin."
+### "This sounds like a macOS app, not a Canva product."
 
-It is not. We are not asking to sit beside the product. We are saying the
-work we built belongs in your offering, because that is the market it was
-already moving into.
+Correct today. The product is macOS. The capability is visual library indexing
+and retrieval. The strategic question is whether that capability belongs inside
+Canva's offering.
 
-### "This sounds like search."
+### "How is this different from FindandSeek?"
 
-It is the moment before generation. If people can find and reuse what they
-already have, they enter creation differently. That is a product shift, not
-just a better search box.
+FindandSeek is a separate product. dam-mac is focused on visual asset
+management and image-library workflows. Keep the pitch on dam-mac only.
