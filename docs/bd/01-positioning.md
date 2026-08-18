@@ -2,105 +2,124 @@
 
 ## One-line description
 
-An indexing and retrieval engine for existing asset libraries that helps AI-assisted creation reuse the right existing asset before falling back to generation.
+We built a retrieval-first asset product that was naturally heading into
+Canva and Pexels's market. We would rather bring that value into their
+offering than compete with them for it.
 
 ## Primary wedge
 
-Lead with **retrieval before generation**.
+Lead with **natural overlap, not a plug-in**.
 
-This is the strongest wedge because it connects three ideas Canva already cares
-about:
+The product was always going to land in the same place Canva already occupies:
 
-- better use of assets it already owns through Pexels/Pixabay
-- stronger enterprise value through smarter asset reuse
-- lower AI costs by avoiding unnecessary generation requests
+- people creating from libraries they already have
+- teams looking for the right existing asset before making a new one
+- platforms that own both the workflow and the content supply
 
-## What we are selling
+That is Canva's space. The honest BD move is to say so, then offer the
+capability directly so Canva can own the value instead of facing another
+product in the same market.
 
-We are not selling:
+## What we are offering
 
-- a competing design app
+We are not offering:
+
+- a plugin
+- a connector sitting beside Brand Hub
+- a competing Canva-like app
 - a replacement for Magic Studio
-- a generic DAM desktop tool
 
-We are selling:
+We are offering:
 
-- an infrastructure layer that indexes assets once
-- a retrieval layer that can sit behind an existing editor or assistant
-- a way to make customer-owned and Canva-owned assets easier to reuse
+- the product we have already built
+- the value of retrieval-first creation
+- a way for Canva to give customers more from the libraries they already have
+- a way for Canva to capture that market instead of competing with it
 
 ## The core business claim
 
-Not every generation request is truly a generation request.
+The product was going to evolve into their space anyway.
 
-A meaningful share of prompts are failed retrieval events:
+Once you index existing assets well enough, people stop generating as much and
+start creating from what they already have. That is the natural next step of
+the work. It is also the natural next step of Canva's work: own the workflow,
+own the library, and make both more valuable together.
 
-- the user wants "something like the thing we already had"
-- the product cannot confidently find that asset fast enough
-- generation is used as a substitute for search and reuse
-
-Our product changes that behavior by making the platform prefer reusable assets
-first and generate only when the library has no acceptable match.
+If we keep going independently, we end up in their market. We would rather
+give them that value directly.
 
 ## Why this matters to Canva
 
-### 1. Lower unnecessary AI spend
+### 1. Capture the value instead of competing for it
 
-If an existing asset can satisfy the request, retrieval is cheaper than a new
-generation call. This matters most in high-volume workflows where many prompts
-are near-duplicates of content already in the system.
+The capability is heading toward the same customer: teams who want to create
+from existing brand, campaign, and stock libraries. Canva already has those
+customers. Better to bring the value into Canva than to let another product
+grow up beside it.
 
-### 2. Stronger enterprise asset story
+### 2. Stronger offering for their customers
 
-For enterprise teams, the value is not only search. It is:
+If Canva has this directly, customers get:
 
-- faster reuse of brand-approved assets
-- better discovery across campaign libraries
-- more leverage from the content customers have already paid to create
-- a clearer reason to keep creation, governance, and retrieval inside Canva
+- creation that starts from their own assets
+- faster reuse of brand-approved work
+- a library that is actually useful inside the product
+- generation only when nothing existing is good enough
 
-### 3. Better use of owned inventory
+That is a richer product, and a reason for enterprise teams to keep more of
+their content inside Canva.
 
-Canva already owns a large stock corpus through Pexels and Pixabay. Better
-retrieval increases the value of inventory they already control.
+### 3. Better economics on AI
+
+If people can enter creation from what they already have, fewer requests need
+frontier generation. Canva keeps the customer outcome and reduces unnecessary
+AI spend.
+
+### 4. Better use of owned inventory
+
+Canva already owns Pexels and Pixabay. A product that makes existing assets
+easier to find and reuse raises the value of inventory they already control.
 
 ## Product framing for buyers
 
 Use this framing consistently:
 
-> We built an indexing engine that understands asset libraries once, returns
-> compact and usable results quickly, and helps your product prefer existing
-> assets before invoking generation.
+> We built something that was naturally going to evolve into your space:
+> helping people create from the content they already have, instead of
+> generating as much. We would rather give you that value directly than
+> compete with you for it.
 
 ## What not to say
 
 Avoid:
 
-- "You should enter the DAM space"
-- "You do not need your team to build it"
-- "Do not waste time building this"
-- "We want to sell you our app"
+- "plug in as infrastructure"
+- "sit behind your product"
+- "we can be a connector"
+- "you should enter the DAM space"
+- "do not waste time building this"
+- "buy our app"
 
-Those phrases either underrate Canva's existing product surface or make the
-offer sound defensive.
+Those phrases make the offer sound like a side integration, or like we are
+trying to sell them a desktop product.
 
 ## What to say instead
 
 Use:
 
-- "reduce unnecessary generation"
-- "improve retrieval and reuse of existing assets"
-- "strengthen enterprise asset workflows"
-- "increase the value of customer and owned libraries"
-- "plug in as infrastructure rather than compete at the app layer"
+- "this was naturally heading into your market"
+- "we would rather give you the value directly than compete"
+- "your customers can create from their own assets first"
+- "that increases the value of your offering"
+- "it also reduces unnecessary generation"
+- "we have already built it"
 
 ## Recommended narrative
 
-1. Canva already has the audience, workflow, and content supply.
-2. Many AI requests are really retrieval failures.
-3. We built an engine that indexes libraries once and serves reusable
-   understanding cheaply.
-4. That can improve enterprise asset reuse while lowering AI generation
-   dependence.
-5. We want to support the product surface, not compete with it.
-6. The right next step is a narrow proof, not a broad partnership discussion.
+1. We built a product around existing libraries, not new generation.
+2. That work was always going to land in Canva and Pexels's market.
+3. People do not need to generate as much when they can enter creation from
+   what they already have.
+4. Canva already has the customers, the workflow, and the content supply.
+5. We would rather bring that value into Canva than compete with Canva for it.
+6. The next step is to show the product and see if they want it as theirs.

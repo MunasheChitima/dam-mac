@@ -4,29 +4,30 @@
 
 ### Canva
 
-Canva is the main account to target because it controls:
+Canva is the main account because this is already their market:
 
-- the editor and workflow surface
-- the enterprise sales motion
-- the AI generation experience
-- the Pexels and Pixabay inventory layer
+- they own the creation workflow
+- they own the enterprise relationship
+- they own the AI generation surface
+- they own Pexels and Pixabay
 
-This makes Canva the clearest budget owner and the clearest integration point.
+If the product keeps growing independently, it grows into that same space. The
+right first conversation is therefore with Canva, not with a side market.
 
 ## Secondary account
 
 ### Pexels
 
-Pexels is a secondary conversation, not the first one.
+Pexels is a secondary conversation.
 
-Use Pexels conversations to validate:
+Use it to reinforce the inventory point:
 
-- content retrieval pain
-- API and product search limitations
-- asset utilization opportunities
+- people already come to Pexels to find existing content
+- better retrieval makes that library more valuable
+- Canva can carry that value into the creation product itself
 
-Do not treat Pexels as the main buyer unless you reach someone who clearly owns
-platform strategy or can sponsor a Canva introduction.
+Do not treat Pexels as the main buyer unless the person can sponsor a Canva
+conversation. The market we are overlapping with is Canva's.
 
 ## Buyer personas inside Canva
 
@@ -45,16 +46,16 @@ Ideal titles:
 
 Why they matter:
 
-- they own retention and differentiation for enterprise teams
-- they care about asset reuse, governance, and workflow efficiency
-- they are most likely to see the value of intelligent retrieval on top of
-  existing customer libraries
+- they own the part of Canva closest to the market we were heading into
+- they care about keeping customer libraries useful inside Canva
+- they can see the value of giving customers a stronger asset product directly
 
 Core pitch:
 
-> We can strengthen Canva's enterprise asset story by making customer-owned and
-> Canva-owned libraries far easier to search, reuse, and govern inside creation
-> workflows.
+> We built a product that helps people create from the assets they already
+> have. That was naturally heading into Canva's enterprise market. We would
+> rather bring that value into Canva than compete with you for those
+> customers.
 
 ### 2. AI platform and Magic Studio leadership
 
@@ -68,36 +69,19 @@ Ideal titles:
 
 Why they matter:
 
-- they care about compute costs, generation routing, and product quality
-- they are the best audience for the retrieval-before-generation thesis
+- they own the generation surface that this product would otherwise sit
+  beside
+- they can see the economic case: less generation when existing assets are
+  good enough
 
 Core pitch:
 
-> A meaningful share of generation requests are failed retrieval events. We help
-> your product prefer existing assets before calling generation.
+> The product we built was always going to overlap with Magic: people asking
+> for something new when they really needed something they already had. We
+> would rather give Canva that capability than grow a competing way into the
+> same workflow.
 
-### 3. Platform, integrations, and ecosystem leadership
-
-Ideal titles:
-
-- Head of Platform
-- Director of Integrations
-- Apps ecosystem lead
-- Connect APIs / Apps SDK product lead
-
-Why they matter:
-
-- they understand how a new capability could ship as infrastructure or as an
-  integration surface
-- they can evaluate whether the first step is a native integration, connector,
-  or internal platform capability
-
-Core pitch:
-
-> We are not asking you to replace your product surface. We can sit behind it as
-> a retrieval and indexing layer.
-
-### 4. Partnerships, strategy, and corporate development
+### 3. Partnerships, strategy, and corporate development
 
 Ideal titles:
 
@@ -108,60 +92,95 @@ Ideal titles:
 
 Why they matter:
 
-- they can help route the conversation if the fit is product-strategic
-- they are relevant if the discussion shifts toward licensing or acquisition
+- they are the right audience once the overlap is obvious
+- they can evaluate bringing the product in as a capability, a team, or a
+  commercial relationship
+- they care about occupying a market rather than watching someone else grow
+  into it
 
 Core pitch:
 
-> This could be licensed or embedded as infrastructure if the pilot proves out.
+> This was naturally going to evolve into your space. We would rather give
+> Canva the value directly than compete. If it is useful, we can show you
+> what we have already built.
+
+### 4. Product leadership around content libraries and discovery
+
+Ideal titles:
+
+- Head of Platform
+- Director of Content Discovery
+- Brand Hub product lead
+- leader for Canva Photos / stock / Pexels product
+
+Why they matter:
+
+- they sit on the library side of the same market
+- they can see how retrieval-first creation makes owned inventory more
+  valuable
+
+Core pitch:
+
+> We built a way for people to enter creation from existing libraries. That
+> is already your market. We would rather you have that value than us
+> building toward the same place independently.
 
 ### 5. Pexels product or API leadership
 
 Ideal titles:
 
 - Head of Product
-- API product lead
 - Search or discovery lead
+- API product lead
 - partnerships lead
 
 Why they matter:
 
-- they can validate demand around smarter retrieval and reuse
-- they are useful allies if they see this as a way to increase library value
+- they can validate that better use of existing content is the real job
+- they can help route the conversation into Canva if they see the overlap
 
 Core pitch:
 
-> Better retrieval can raise the usage and strategic value of the inventory
-> already inside Pexels.
+> People already come to Pexels for content they already have. We built a
+> product around that, and it was heading into the same market. We would
+> rather Canva have that value than compete for it.
 
 ## Outreach order
 
 1. Canva enterprise / brand / asset product leaders
-2. Canva AI product or AI platform leaders
-3. Canva platform / integrations leaders
-4. Canva partnerships or corporate development
+2. Canva partnerships or corporate development
+3. Canva AI product or AI platform leaders
+4. Canva content / library / discovery leaders
 5. Pexels product leadership
 
 ## Why this order works
 
-The cleanest first conversation is not "Can we partner?" It is:
+The first conversation is not "can we plug something in?"
 
-- here is the enterprise value
-- here is the AI cost case
-- here is the proof we can run
+It is:
 
-That means product owners are the best first audience because they can
-understand both the user problem and the economics.
+- we built a product that was heading into your market
+- we would rather give you that value than compete
+- here is what your customers would get
+- here is the proof
+
+Enterprise product and corp dev are the best first audiences because they
+can hear both the market overlap and the commercial implication.
+
+AI leadership is important, but second: they need to hear that this is not
+an attack on Magic. It is a way for Magic to start from owned and customer
+assets instead of generating first.
 
 ## Targeting notes
 
 When researching named people, look for evidence that they work on:
 
 - Brand Hub
-- enterprise creation workflows
-- DAM or asset integrations
-- AI routing or generation quality
-- content library discovery
+- enterprise content workflows
+- customer libraries and brand assets
+- AI-assisted creation
+- Pexels, Photos, or content discovery
+- partnerships or corporate development
 
-Prefer leaders who sit near product outcomes over general innovation or broad
-marketing contacts.
+Prefer people who can decide whether Canva should own this capability, not
+people who only evaluate third-party apps.

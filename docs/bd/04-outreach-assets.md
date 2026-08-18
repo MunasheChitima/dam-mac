@@ -2,146 +2,149 @@
 
 ## Master positioning sentence
 
-We built an indexing and retrieval engine that helps AI-assisted creation reuse
-the right existing asset before falling back to generation.
+We built a product that was naturally heading into Canva and Pexels's market:
+helping people create from the content they already have. We would rather
+give you that value directly than compete with you for it.
 
 ## Short company description
 
-We are not trying to compete at the app layer. We built a retrieval-first engine
-that can sit behind an existing product and make owned and customer asset
-libraries easier to search, reuse, and govern.
+We built a retrieval-first asset product. The natural next step of that work
+is the same market Canva already occupies: creation from existing libraries,
+owned stock, and brand assets. We do not want to grow up beside that. We
+would rather Canva have the value in its own offering.
 
 ## Email variant A: enterprise and DAM buyer
 
-Subject: A retrieval layer that could strengthen Canva's enterprise asset story
+Subject: This was heading into your market. We would rather give it to you.
 
 Hi [Name],
 
-I have been looking at the way teams use Canva for brand and content workflows,
-and I think there is an opportunity to make the asset side even stronger.
+We have been building a product around a simple idea: people do not need to
+generate as much when they can enter content creation from the assets they
+already have.
 
-A lot of requests that look like "create something new" are really attempts to
-find, reuse, or adapt something the team already has. We have built an indexing
-and retrieval engine that helps a product search those existing libraries first
-and only fall back to generation when there is no acceptable match.
+The more we built it, the clearer the overlap became. That is already Canva's
+space: teams creating from brand libraries, campaign assets, and the content
+you already have through Pexels. If we kept going independently, we would be
+competing in a market you already own.
 
-The reason I think this may be relevant to Canva is that it could add another
-layer of value to Enterprise and Brand Hub: better reuse of customer-owned
-assets, faster discovery across campaign libraries, and a stronger asset
-workflow inside the product rather than outside it.
+We would rather not do that. We would rather give you the value directly, so
+your customers get a stronger way to reuse what they already have, inside
+Canva, and you get a richer offering rather than another product sitting
+beside it.
 
-We do not want to compete with your product surface. If anything, we would
-rather sit underneath it as infrastructure.
-
-If this is interesting, I would love to show you a small proof on a
-representative content slice and discuss whether it could strengthen Canva's
-enterprise asset experience.
+We have already built it, and we would love to show you. If you are keen, I
+can walk you through what we have and what your customers would gain from it.
 
 Munashe Chitima
 
 ## Email variant B: AI economics buyer
 
-Subject: What if some generation requests never needed generation?
+Subject: What if people did not need to generate as much?
 
 Hi [Name],
 
-I wanted to share a thought that may be relevant to Canva's AI product and cost
-strategy.
+I wanted to share something we have built, because I think it lands in
+Canva's market more than it belongs as a separate product.
 
-Not every generation request is truly greenfield creation. In a lot of cases,
-the user is effectively asking for an asset that already exists, but the product
-cannot retrieve it confidently enough, so generation becomes the fallback.
+A lot of generation requests are not really asking for something new. They
+are asking for something the team already has, or something already in the
+library. We built a product that lets people start from those existing
+assets first, and only generate when nothing fits.
 
-We have built an indexing and retrieval engine that helps a product prefer
-existing assets before invoking generation. The business case is simple:
-stronger reuse of existing libraries, better use of inventory you already own,
-and less unnecessary AI spend on requests that are really retrieval problems.
+That work was naturally heading into the same place as Magic: the moment
+someone says "make me this" inside a creation workflow. We do not want to
+compete with that. We would rather Canva have the capability, so generation
+is used when it is actually needed, and customers get more from the content
+they already have.
 
-We are not trying to build a competing creative app. We would rather work as an
-infrastructure layer behind an existing product experience.
-
-If helpful, I would love to run a small proof on a representative content slice
-and show where retrieval could satisfy the request before generation.
+If you are keen, I would love to show you what we have built.
 
 Munashe Chitima
 
 ## Email variant C: strategy or corporate development buyer
 
-Subject: A retrieval-first infrastructure layer for Canva/Pexels
+Subject: We would rather bring this to Canva than compete in your space
 
 Hi [Name],
 
-We have built a custom indexing and retrieval engine for existing content
-libraries, and I think it could be strategically useful for Canva.
+We built a product that helps people create from existing asset libraries
+instead of generating as much. The more it developed, the more obvious it
+became that this is Canva's market: the workflow, the customer, and the
+content supply through Pexels.
 
-The core idea is simple: help the product use the right existing asset before
-generating a new one. That creates value in three places at once: better
-enterprise asset workflows, better use of Canva-owned inventory through
-Pexels/Pixabay, and less unnecessary AI generation.
+We do not want to grow a competing product in that space. We would rather
+give Canva the value directly, so you can offer customers more from the
+libraries they already have, and from the inventory you already own, while
+also reducing unnecessary generation.
 
-We do not want to compete with the product layer. We would rather plug in as
-infrastructure if there is a fit.
-
-If the idea is interesting, I would love to show you a limited proof on a
-representative asset slice and discuss whether it makes sense as a licensed or
-embedded capability.
+We have already built it. If you are keen, I would love to show you the
+product and talk about whether it belongs with you.
 
 Munashe Chitima
 
 ## One-minute deck outline
 
-### Slide 1: The problem
+### Slide 1: Where this was heading
 
-- not every generation request is a true generation request
-- many are failed retrieval events across existing libraries
+- we built a product around existing libraries, not new generation
+- that work was naturally evolving into Canva and Pexels's market
 
-### Slide 2: What we built
+### Slide 2: The value
 
-- an indexing engine that understands assets once at ingest
-- a retrieval layer that returns useful results quickly
-- an architecture that can sit behind an existing product
+- people can enter creation from assets they already have
+- they do not need to generate as much
+- that makes customer libraries and owned inventory more valuable
 
-### Slide 3: Why Canva should care
+### Slide 3: Why we are coming to you
 
-- lower unnecessary generation
-- stronger enterprise asset workflows
-- better use of Pexels and customer-owned libraries
+- this is already your customer, your workflow, and your content supply
+- we would rather give you the value than compete with you for it
 
-### Slide 4: The pilot
+### Slide 4: What your customers get
 
-- narrow content slice
-- measurable retrieval and generation outcomes
-- clear go or no-go result
+- a stronger way to reuse brand and campaign assets
+- more value from Pexels and customer-owned libraries
+- generation as a fallback, not the default
 
-### Slide 5: If it works
+### Slide 5: What we are asking
 
-- infrastructure licensing
-- embedded product capability
-- premium enterprise feature path
+- look at the product we have already built
+- decide whether this value belongs in Canva
 
 ## Talk track for live meetings
 
 Use this sequence:
 
-1. start with the observation that many prompts are really retrieval failures
-2. show the engine as infrastructure, not a competing app
-3. connect it to enterprise value and AI cost control
-4. suggest a small proof instead of a large partnership ask
+1. we built a product around creating from existing assets
+2. that was always going to land in your market
+3. we would rather give you that value than compete
+4. here is what your customers would get, and what it does to generation
+5. if you are keen, look at the product itself
 
 ## Objection handling
 
-### "We already have DAM and asset integrations."
+### "We already have DAM, Brand Hub, and asset integrations."
 
-That is exactly why this may fit. The pitch is not that Canva needs DAM. The
-pitch is that retrieval across those libraries can become smarter, cheaper, and
-more useful inside AI-assisted creation.
+That is the point. The product was heading into a market you already occupy.
+We are not asking you to add a side tool. We are offering the value directly
+so Canva can own that next layer of the experience instead of competing with
+someone else for it.
 
 ### "We can build this ourselves."
 
-Absolutely. The near-term question is whether it is worth allocating internal
-product and ML time before validating the opportunity with a working engine.
+You can. We already have. The reason we are here is not that your team could
+not do it. It is that the product was evolving into your space, and we would
+rather you have the value than us continuing independently.
+
+### "This sounds like a plugin."
+
+It is not. We are not asking to sit beside the product. We are saying the
+work we built belongs in your offering, because that is the market it was
+already moving into.
 
 ### "This sounds like search."
 
-It is search plus product economics. The point is not just retrieval quality. It
-is changing when the product decides to reuse an asset instead of generate one.
+It is the moment before generation. If people can find and reuse what they
+already have, they enter creation differently. That is a product shift, not
+just a better search box.
