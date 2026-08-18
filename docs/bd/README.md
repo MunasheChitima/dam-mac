@@ -26,6 +26,8 @@ For the explicit guardrail, see [product-boundary.md](product-boundary.md).
   FindandSeek language, plus the safe MCP framing
 - [05-blackmagic-davinci.md](05-blackmagic-davinci.md): Blackmagic Design /
   DaVinci Resolve target note and sample pitch
+- [06-sell-to-priority-map.md](06-sell-to-priority-map.md): who to actually
+  sell dam-mac to, in priority order
 
 ## Recommended order of use
 
