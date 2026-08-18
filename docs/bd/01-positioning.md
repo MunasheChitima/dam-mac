@@ -21,6 +21,21 @@ libraries easier to search, reuse, and create from.
 - exposes retrieval through MCP so assistants and workflows can use the library
 - treats generation as a fallback, not the default
 
+## Why MCP matters
+
+dam-mac is naturally built to work through MCP.
+
+That matters because it means the product is already shaped as a capability
+other software can call into, rather than only as a standalone interface. For a
+platform like Canva, that makes the story easier to understand:
+
+- the library intelligence can be invoked from existing workflows
+- assistants and AI features can ask for the right existing asset first
+- the product can pair well with capability-routing Canva already does
+
+Do not overstate this as "drop-in integration." The point is simpler: the
+product already speaks in a form that modern AI-assisted software can use.
+
 ## Primary wedge for Canva/Pexels
 
 Lead with **visual asset reuse before generation**.
@@ -46,6 +61,8 @@ We are offering:
 - the product and engine we have already built
 - a way for Canva to give customers more from the visual libraries they already have
 - a stronger asset workflow without us growing into a direct competitor
+- an MCP-native capability that can pair well with how Canva already composes
+  search, AI, and content workflows
 
 ## Honest market read
 
@@ -134,6 +151,8 @@ Use:
 - "create from what you already have"
 - "reduce unnecessary generation"
 - "make owned and customer libraries more valuable"
+- "the product is already MCP-native"
+- "that should pair well with AI-assisted workflows Canva already has"
 - "we would rather bring this to Canva than compete with Canva"
 - "we have already built it"
 

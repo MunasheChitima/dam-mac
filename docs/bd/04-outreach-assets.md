@@ -19,6 +19,10 @@ indexing engine to help people find and reuse the images and content they
 already have, instead of generating new material by default. We would rather
 bring that value to Canva than compete with Canva for it.
 
+It is also naturally MCP-native, which means the capability is already shaped
+to work with AI-assisted workflows rather than only through a standalone app
+surface.
+
 ## Email variant A: enterprise and brand buyer
 
 Subject: A visual DAM built around assets you already have
@@ -34,6 +38,10 @@ and reuse, and lets people start creating from what they already own. The more
 we built it, the clearer it became that this value likely belongs inside a
 platform like Canva, where teams already manage brand libraries, campaign
 assets, and stock content.
+
+Because the product is already built to work through MCP, it should also pair
+well with AI-assisted workflows like the ones Canva already has, where the
+right existing asset can be requested before generation is invoked.
 
 We do not want to compete with Canva. We would rather bring this capability to
 you, so your customers get a stronger way to create from existing assets and
@@ -63,6 +71,9 @@ Pexels, customer libraries, and AI-assisted creation inside one workflow. We
 would rather bring that value to Canva than keep building toward the same
 outcome independently.
 
+Because dam-mac is already MCP-native, it is also naturally shaped to pair with
+AI features that need to call into a visual library as part of the workflow.
+
 If you are keen, I would love to show you the product.
 
 Munashe Chitima
@@ -81,6 +92,10 @@ As it has developed, the strategic overlap with Canva has become clearer:
 visual libraries, brand assets, owned stock, and AI-assisted creation all
 live in the same workflow. We do not want to grow a competing product in that
 space. We would rather bring the value to Canva.
+
+The fact that the product is already MCP-native also means the capability is
+well-shaped for modern AI-assisted software, rather than needing to be thought
+of only as a standalone Mac application.
 
 If the idea is interesting, I would love to show you the product and talk
 about whether it belongs with you.
@@ -104,6 +119,7 @@ Munashe Chitima
 - stronger enterprise and brand library workflows
 - better use of Pexels and customer-owned inventory
 - less unnecessary generation
+- MCP-native capability that should pair well with existing AI workflows
 
 ### Slide 4: What we are offering
 
@@ -121,9 +137,10 @@ Use this sequence:
 
 1. dam-mac is a visual DAM, not a generic AI search tool
 2. it helps people create from existing assets first
-3. that behavior converges with Canva's workflow and libraries
-4. we would rather bring the value to Canva than compete
-5. if you are keen, look at the product itself
+3. it is already MCP-native, so it pairs naturally with AI-assisted workflows
+4. that behavior converges with Canva's workflow and libraries
+5. we would rather bring the value to Canva than compete
+6. if you are keen, look at the product itself
 
 ## Objection handling
 

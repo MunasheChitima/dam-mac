@@ -12,6 +12,8 @@ This folder packages the Canva/Pexels business development strategy for
 If a document mentions document memory, agent file search, or local assistant
 memory, it is the wrong product context.
 
+For the explicit guardrail, see [product-boundary.md](product-boundary.md).
+
 ## Contents
 
 - [01-positioning.md](01-positioning.md): what dam-mac is, the wedge, and the
@@ -20,6 +22,10 @@ memory, it is the wrong product context.
 - [03-pilot-proposal.md](03-pilot-proposal.md): how to show the dam-mac product
 - [04-outreach-assets.md](04-outreach-assets.md): buyer-specific outreach,
   deck outline, and objection handling
+- [product-boundary.md](product-boundary.md): hard boundary between dam-mac and
+  FindandSeek language, plus the safe MCP framing
+- [05-blackmagic-davinci.md](05-blackmagic-davinci.md): Blackmagic Design /
+  DaVinci Resolve target note and sample pitch
 
 ## Recommended order of use
 
