@@ -1,0 +1,217 @@
+# Long-running research-agent prompt
+
+Use this prompt with a deep research agent:
+
+```text
+Act as a business development and product-strategy research agent for dam-mac.
+
+You are doing a serious target-account study, not a lightweight brainstorm.
+Work like a long-running research analyst. Use live web research, official docs,
+API references, help centers, app marketplaces, release notes, product pages,
+developer docs, pricing pages, and enterprise pages wherever possible.
+
+Product context
+- dam-mac is a digital asset management product built around a custom visual indexing engine.
+- Its core value is helping people find, reuse, and create from the image and content libraries they already have, instead of generating new material by default.
+- It is MCP-native, so the capability can pair with AI-assisted workflows.
+- The current productized surface is on Mac, but do NOT treat it as Mac-only.
+- The core engine was trained on Linux and can be hosted on a server.
+- Think of this as an engine/capability that could be licensed, embedded, exposed as a plugin, or offered as OEM functionality.
+- This is NOT a document-memory or generic file-search product.
+- Do NOT confuse dam-mac with FindandSeek or any other document/agent-memory product.
+
+Product mechanics you should use in your reasoning
+- The value is not only "search." The system performs structured visual extraction and library understanding at ingest time.
+- Available code patterns show a hybrid extraction approach:
+  - use direct text extraction when a usable text layer exists
+  - otherwise use OCR / VLM-based extraction on rasterized pages or visuals
+  - fall back to simpler extraction logic when higher-end extraction fails
+- The system is not relying only on free-form AI descriptions. It appears to normalize and structure outputs:
+  - detected text or visual tokens are paired spatially
+  - labels/descriptions are cleaned and de-duplicated
+  - extracted values are classified into meaningful categories
+  - low-confidence or ambiguous results are flagged for human review
+- The available logic suggests deterministic post-processing matters:
+  - geometry / proximity-based pairing
+  - normalization of noisy OCR output
+  - de-duplication of repeated tokens
+  - classification rules over extracted labels
+  - "needs review" style flags when confidence is lower
+- The commercial implication: dam-mac is not just "semantic search over images." It is a workflow-capable indexing layer that can:
+  - enrich assets at ingest
+  - create searchable structured metadata
+  - support reuse and classification workflows
+  - expose the resulting library through MCP and other software surfaces
+- When evaluating target companies, pay attention to whether they already do all of those things, or only a narrower subset such as plain visual search, transcript search, or generic tagging.
+
+What to infer carefully
+- Treat the product as having a real metadata/enrichment layer, not only an interface layer.
+- Assume there is likely an internal tagging / description / classification schema, even if it is not fully documented publicly.
+- Where exact schema details are unavailable, infer from the mechanics above and note what assumptions still need confirmation.
+- Call out when a target already has:
+  - OCR
+  - object or face recognition
+  - metadata enrichment
+  - classification or taxonomy workflows
+  - review queues for low-confidence outputs
+  - MCP/API/plugin surfaces
+- The strongest targets are those where dam-mac adds more than "another search bar":
+  - stronger ingest-time enrichment
+  - better structured metadata
+  - better reuse of existing assets
+  - better AI-assisted retrieval through MCP or workflow APIs
+
+Business question
+We want to know who we should actually sell this to if we pursue a license/plugin/embedded-capability strategy.
+
+Research objective
+Find and evaluate companies that could realistically:
+- license the capability
+- embed it as a feature
+- offer it as a plugin/integration
+- OEM it inside an existing asset, brand, stock, or workflow platform
+- partner strategically around visual-library intelligence
+
+Prioritization logic
+Prioritize companies that already own one or more of:
+- visual asset libraries
+- brand systems
+- DAM or MAM products
+- review/approval or creative workflow platforms
+- stock media libraries
+- AI-assisted content workflows
+- developer-facing media platforms with APIs and extensibility
+
+Deprioritize:
+- pure video editors unless still strategically important
+- generic AI startups with no content workflow
+- companies that are mostly direct competitors unless there is still a credible BD path
+
+Target categories to explore
+- Canva / Pexels
+- DAM platforms
+- Brand management platforms
+- Media asset management platforms
+- Stock media marketplaces
+- Creative workflow / review / approval platforms
+- Developer-first media infrastructure platforms
+- Enterprise content platforms with strong visual asset workflows
+
+Seed companies
+Start with, but do not limit yourself to:
+- Canva
+- Pexels
+- Bynder
+- Frontify
+- Brandfolder
+- Canto
+- MediaValet
+- Air
+- Iconik
+- Frame.io
+- Cloudinary
+- Adobe Experience Manager Assets
+- Shutterstock
+- Adobe Stock
+- Getty Images / iStock
+- Aprimo
+- CELUM
+- Image Relay
+- Acquia DAM / Widen lineage if relevant
+
+For each company, determine:
+1. What the company actually does
+2. Which category it belongs to
+3. Why it is relevant to dam-mac
+4. Whether it is a strong, medium, or weak fit
+5. Whether it is primarily:
+   - buyer
+   - partner
+   - competitor
+   - mixed
+6. What relevant features they already have today, especially around:
+   - visual search
+   - AI search
+   - metadata enrichment
+   - asset reuse
+   - DAM/MAM
+   - stock/media management
+   - review/approval workflows
+   - MCP, API, SDK, plugin marketplace, or app ecosystem
+7. Where dam-mac might still add value despite those existing features
+8. What the best commercial angle is:
+   - license
+   - embedded feature
+   - plugin/integration
+   - OEM
+   - strategic partnership
+   - corp dev / acquisition conversation
+9. What team or buyer inside the company should see this:
+   - product
+   - AI/search
+   - partnerships
+   - corp dev
+   - enterprise/platform
+10. What the risk is:
+   - too much feature overlap
+   - already building internally
+   - too much direct competition
+   - weak extensibility
+   - hard to access
+   - unclear strategic fit
+
+Important analytical distinctions
+Be careful to distinguish between:
+- a true DAM/MAM platform
+- a stock marketplace
+- a review/workflow platform
+- an editor with a search feature
+- a developer-facing media platform
+
+Do not over-credit a company just because it has one AI search feature.
+Call out the difference between:
+- “has a narrow feature”
+- “owns the broader workflow where dam-mac fits”
+
+Do not just list companies.
+Evaluate whether they are realistic targets worth founder time.
+
+Deliverables
+1. A ranked top-15 list of the best companies to approach
+2. A top-5 shortlist of who to approach first
+3. A table with these columns:
+   - Company
+   - Category
+   - Current relevant features
+   - Why dam-mac fits
+   - Best commercial angle
+   - Likely buyer/team
+   - Competitive risk
+   - Priority (1-5)
+4. A section called “Companies to avoid first”
+5. A section called “What proof points dam-mac still needs before outreach”
+6. A section called “Most promising wedge by category”
+7. A short final recommendation:
+   - where to focus first
+   - what to ignore
+   - what messaging to use by target category
+8. A short section called “What product mechanics matter most by buyer type”
+   - which buyers care about search only
+   - which buyers care about enrichment/taxonomy
+   - which buyers care about MCP/workflow access
+   - which buyers care about reviewability / human-in-the-loop correction
+
+Research standards
+- Prefer official sources.
+- Use secondary commentary only to supplement.
+- Be skeptical of vendor marketing.
+- Note if a company already has strong native AI search, visual search, or DAM intelligence.
+- Distinguish between:
+  - plain search
+  - metadata enrichment
+  - classification/taxonomy support
+  - reviewable extraction workflows
+  - MCP/API/plugin extensibility
+- Be honest if a company is more competitor than buyer.
+- Optimize for a practical BD target list, not a generic market map.
+```
